@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - HomeHaven", "short_name": "Snow Log", "start_url": "/snow-log-apps/homehaven/", "scope": "/snow-log-apps/homehaven/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#8f6e00", "icons": [{"src": "/snow-log-apps/t/homehaven/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

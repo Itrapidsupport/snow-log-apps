@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - FWC Welding", "short_name": "Snow Log", "start_url": "/snow-log-apps/fwc-welding/", "scope": "/snow-log-apps/fwc-welding/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#bb4f08", "icons": [{"src": "/snow-log-apps/t/fwc-welding/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

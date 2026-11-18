@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Riverdale Snow", "short_name": "Snow Log", "start_url": "/snow-log-apps/riverdale-snow/", "scope": "/snow-log-apps/riverdale-snow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#906531", "icons": [{"src": "/snow-log-apps/t/riverdale-snow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

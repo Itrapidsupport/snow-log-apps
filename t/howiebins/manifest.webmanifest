@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - HowieBins", "short_name": "Snow Log", "start_url": "/snow-log-apps/howiebins/", "scope": "/snow-log-apps/howiebins/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#787803", "icons": [{"src": "/snow-log-apps/t/howiebins/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

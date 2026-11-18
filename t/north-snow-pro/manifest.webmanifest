@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - North Snow Pro", "short_name": "Snow Log", "start_url": "/snow-log-apps/north-snow-pro/", "scope": "/snow-log-apps/north-snow-pro/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#002549", "icons": [{"src": "/snow-log-apps/t/north-snow-pro/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

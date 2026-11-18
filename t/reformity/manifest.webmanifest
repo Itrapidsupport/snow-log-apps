@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Reformity", "short_name": "Snow Log", "start_url": "/snow-log-apps/reformity/", "scope": "/snow-log-apps/reformity/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#d92e1b", "icons": [{"src": "/snow-log-apps/t/reformity/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

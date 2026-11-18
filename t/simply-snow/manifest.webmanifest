@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Simply Snow", "short_name": "Snow Log", "start_url": "/snow-log-apps/simply-snow/", "scope": "/snow-log-apps/simply-snow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#067abb", "icons": [{"src": "/snow-log-apps/t/simply-snow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

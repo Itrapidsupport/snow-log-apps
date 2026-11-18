@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - NLLC", "short_name": "Snow Log", "start_url": "/snow-log-apps/nllc/", "scope": "/snow-log-apps/nllc/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#077e43", "icons": [{"src": "/snow-log-apps/t/nllc/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

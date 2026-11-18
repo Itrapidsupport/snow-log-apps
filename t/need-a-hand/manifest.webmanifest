@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Need-A-Hand", "short_name": "Snow Log", "start_url": "/snow-log-apps/need-a-hand/", "scope": "/snow-log-apps/need-a-hand/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#2e5e3a", "icons": [{"src": "/snow-log-apps/t/need-a-hand/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

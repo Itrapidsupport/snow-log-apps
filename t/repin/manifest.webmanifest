@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Repin", "short_name": "Snow Log", "start_url": "/snow-log-apps/repin/", "scope": "/snow-log-apps/repin/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#167e34", "icons": [{"src": "/snow-log-apps/t/repin/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

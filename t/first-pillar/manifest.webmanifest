@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - First Pillar", "short_name": "Snow Log", "start_url": "/snow-log-apps/first-pillar/", "scope": "/snow-log-apps/first-pillar/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#2e7ba9", "icons": [{"src": "/snow-log-apps/t/first-pillar/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

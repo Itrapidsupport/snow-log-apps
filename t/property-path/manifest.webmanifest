@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Property Path", "short_name": "Snow Log", "start_url": "/snow-log-apps/property-path/", "scope": "/snow-log-apps/property-path/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#1f4e79", "icons": [{"src": "/snow-log-apps/t/property-path/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

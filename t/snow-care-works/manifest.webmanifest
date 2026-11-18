@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Snow-Care Works", "short_name": "Snow Log", "start_url": "/snow-log-apps/snow-care-works/", "scope": "/snow-log-apps/snow-care-works/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#756f00", "icons": [{"src": "/snow-log-apps/t/snow-care-works/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

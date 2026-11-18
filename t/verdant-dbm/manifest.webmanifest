@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Verdant DBM", "short_name": "Snow Log", "start_url": "/snow-log-apps/verdant-dbm/", "scope": "/snow-log-apps/verdant-dbm/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#a06754", "icons": [{"src": "/snow-log-apps/t/verdant-dbm/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

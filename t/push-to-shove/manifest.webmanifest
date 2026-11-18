@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Push To Shove", "short_name": "Snow Log", "start_url": "/snow-log-apps/push-to-shove/", "scope": "/snow-log-apps/push-to-shove/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#6838e8", "icons": [{"src": "/snow-log-apps/t/push-to-shove/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

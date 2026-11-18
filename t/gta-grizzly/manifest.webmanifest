@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - GTA Grizzly", "short_name": "Snow Log", "start_url": "/snow-log-apps/gta-grizzly/", "scope": "/snow-log-apps/gta-grizzly/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#617e34", "icons": [{"src": "/snow-log-apps/t/gta-grizzly/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

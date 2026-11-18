@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Roxborough", "short_name": "Snow Log", "start_url": "/snow-log-apps/roxborough/", "scope": "/snow-log-apps/roxborough/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#35685e", "icons": [{"src": "/snow-log-apps/t/roxborough/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

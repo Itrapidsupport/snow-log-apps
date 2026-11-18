@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - MowSnowPros", "short_name": "Snow Log", "start_url": "/snow-log-apps/mowsnowpros/", "scope": "/snow-log-apps/mowsnowpros/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#3c7c2e", "icons": [{"src": "/snow-log-apps/t/mowsnowpros/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

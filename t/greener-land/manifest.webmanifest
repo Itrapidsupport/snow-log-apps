@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Greener Land", "short_name": "Snow Log", "start_url": "/snow-log-apps/greener-land/", "scope": "/snow-log-apps/greener-land/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#077e43", "icons": [{"src": "/snow-log-apps/t/greener-land/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Nutri-Lawn", "short_name": "Snow Log", "start_url": "/snow-log-apps/nutri-lawn/", "scope": "/snow-log-apps/nutri-lawn/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#11803d", "icons": [{"src": "/snow-log-apps/t/nutri-lawn/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

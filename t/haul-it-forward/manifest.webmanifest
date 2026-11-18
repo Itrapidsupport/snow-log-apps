@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Haul It Forward", "short_name": "Snow Log", "start_url": "/snow-log-apps/haul-it-forward/", "scope": "/snow-log-apps/haul-it-forward/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#11833f", "icons": [{"src": "/snow-log-apps/t/haul-it-forward/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

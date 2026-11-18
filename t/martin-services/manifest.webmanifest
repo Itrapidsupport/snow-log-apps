@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Martin Services", "short_name": "Snow Log", "start_url": "/snow-log-apps/martin-services/", "scope": "/snow-log-apps/martin-services/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#086838", "icons": [{"src": "/snow-log-apps/t/martin-services/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

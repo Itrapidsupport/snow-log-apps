@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Driveway Snow", "short_name": "Snow Log", "start_url": "/snow-log-apps/driveway-snow/", "scope": "/snow-log-apps/driveway-snow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#183888", "icons": [{"src": "/snow-log-apps/t/driveway-snow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

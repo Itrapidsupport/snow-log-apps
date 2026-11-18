@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - ALLPROP", "short_name": "Snow Log", "start_url": "/snow-log-apps/allprop/", "scope": "/snow-log-apps/allprop/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#0675a1", "icons": [{"src": "/snow-log-apps/t/allprop/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

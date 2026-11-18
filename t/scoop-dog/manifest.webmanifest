@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Scoop Dog", "short_name": "Snow Log", "start_url": "/snow-log-apps/scoop-dog/", "scope": "/snow-log-apps/scoop-dog/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#9c601b", "icons": [{"src": "/snow-log-apps/t/scoop-dog/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

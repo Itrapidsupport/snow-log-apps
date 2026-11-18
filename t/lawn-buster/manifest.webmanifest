@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Lawn Buster", "short_name": "Snow Log", "start_url": "/snow-log-apps/lawn-buster/", "scope": "/snow-log-apps/lawn-buster/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#360046", "icons": [{"src": "/snow-log-apps/t/lawn-buster/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

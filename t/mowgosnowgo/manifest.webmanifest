@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - MowGOSnowGO", "short_name": "Snow Log", "start_url": "/snow-log-apps/mowgosnowgo/", "scope": "/snow-log-apps/mowgosnowgo/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#c82828", "icons": [{"src": "/snow-log-apps/t/mowgosnowgo/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

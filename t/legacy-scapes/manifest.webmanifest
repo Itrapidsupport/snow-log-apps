@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Legacy Scapes", "short_name": "Snow Log", "start_url": "/snow-log-apps/legacy-scapes/", "scope": "/snow-log-apps/legacy-scapes/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#1f2d3d", "icons": [{"src": "/snow-log-apps/t/legacy-scapes/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Grass King", "short_name": "Snow Log", "start_url": "/snow-log-apps/grass-king/", "scope": "/snow-log-apps/grass-king/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#806f2b", "icons": [{"src": "/snow-log-apps/t/grass-king/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

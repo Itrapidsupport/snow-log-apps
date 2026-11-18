@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Bincore", "short_name": "Snow Log", "start_url": "/snow-log-apps/bincore/", "scope": "/snow-log-apps/bincore/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#d80818", "icons": [{"src": "/snow-log-apps/t/bincore/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Paver King", "short_name": "Snow Log", "start_url": "/snow-log-apps/paver-king/", "scope": "/snow-log-apps/paver-king/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#896d04", "icons": [{"src": "/snow-log-apps/t/paver-king/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

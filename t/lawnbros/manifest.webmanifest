@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Lawnbros", "short_name": "Snow Log", "start_url": "/snow-log-apps/lawnbros/", "scope": "/snow-log-apps/lawnbros/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#5d7e26", "icons": [{"src": "/snow-log-apps/t/lawnbros/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

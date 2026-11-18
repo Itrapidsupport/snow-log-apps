@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Summit Care", "short_name": "Snow Log", "start_url": "/snow-log-apps/summit-care/", "scope": "/snow-log-apps/summit-care/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#3b4a8c", "icons": [{"src": "/snow-log-apps/t/summit-care/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

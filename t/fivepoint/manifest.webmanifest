@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Fivepoint", "short_name": "Snow Log", "start_url": "/snow-log-apps/fivepoint/", "scope": "/snow-log-apps/fivepoint/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#9e5e3a", "icons": [{"src": "/snow-log-apps/t/fivepoint/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

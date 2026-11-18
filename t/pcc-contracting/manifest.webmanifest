@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - PCC Contracting", "short_name": "Snow Log", "start_url": "/snow-log-apps/pcc-contracting/", "scope": "/snow-log-apps/pcc-contracting/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#0878b8", "icons": [{"src": "/snow-log-apps/t/pcc-contracting/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

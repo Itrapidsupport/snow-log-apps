@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Kodiak Snow", "short_name": "Snow Log", "start_url": "/snow-log-apps/kodiak-snow/", "scope": "/snow-log-apps/kodiak-snow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#8f6608", "icons": [{"src": "/snow-log-apps/t/kodiak-snow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

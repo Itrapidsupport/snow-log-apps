@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - RLawn", "short_name": "Snow Log", "start_url": "/snow-log-apps/rlawn/", "scope": "/snow-log-apps/rlawn/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#184808", "icons": [{"src": "/snow-log-apps/t/rlawn/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

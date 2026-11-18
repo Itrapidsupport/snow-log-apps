@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Mister Snow", "short_name": "Snow Log", "start_url": "/snow-log-apps/mister-snow/", "scope": "/snow-log-apps/mister-snow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#a26707", "icons": [{"src": "/snow-log-apps/t/mister-snow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Rose Knows", "short_name": "Snow Log", "start_url": "/snow-log-apps/rose-knows/", "scope": "/snow-log-apps/rose-knows/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#996a01", "icons": [{"src": "/snow-log-apps/t/rose-knows/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

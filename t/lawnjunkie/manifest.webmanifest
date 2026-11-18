@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - LawnJunkie", "short_name": "Snow Log", "start_url": "/snow-log-apps/lawnjunkie/", "scope": "/snow-log-apps/lawnjunkie/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#2d6a2f", "icons": [{"src": "/snow-log-apps/t/lawnjunkie/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

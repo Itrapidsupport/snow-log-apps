@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Lifted Trucking", "short_name": "Snow Log", "start_url": "/snow-log-apps/lifted-trucking/", "scope": "/snow-log-apps/lifted-trucking/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#d91625", "icons": [{"src": "/snow-log-apps/t/lifted-trucking/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

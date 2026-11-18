@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Patch and Seal", "short_name": "Snow Log", "start_url": "/snow-log-apps/patch-and-seal/", "scope": "/snow-log-apps/patch-and-seal/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#b81828", "icons": [{"src": "/snow-log-apps/t/patch-and-seal/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

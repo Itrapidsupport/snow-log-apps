@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Lawn Rescue", "short_name": "Snow Log", "start_url": "/snow-log-apps/lawn-rescue/", "scope": "/snow-log-apps/lawn-rescue/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#d71178", "icons": [{"src": "/snow-log-apps/t/lawn-rescue/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

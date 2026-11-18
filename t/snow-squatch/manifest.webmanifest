@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - The Snow Squatch", "short_name": "Snow Log", "start_url": "/snow-log-apps/snow-squatch/", "scope": "/snow-log-apps/snow-squatch/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#ab570e", "icons": [{"src": "/snow-log-apps/t/snow-squatch/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

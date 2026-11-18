@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Forever Green", "short_name": "Snow Log", "start_url": "/snow-log-apps/forever-green/", "scope": "/snow-log-apps/forever-green/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#9d661c", "icons": [{"src": "/snow-log-apps/t/forever-green/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

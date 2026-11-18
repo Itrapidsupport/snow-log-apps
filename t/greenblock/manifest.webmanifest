@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Greenblock", "short_name": "Snow Log", "start_url": "/snow-log-apps/greenblock/", "scope": "/snow-log-apps/greenblock/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#1f2d3d", "icons": [{"src": "/snow-log-apps/t/greenblock/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Monster Plow", "short_name": "Snow Log", "start_url": "/snow-log-apps/monster-plow/", "scope": "/snow-log-apps/monster-plow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#7e7404", "icons": [{"src": "/snow-log-apps/t/monster-plow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

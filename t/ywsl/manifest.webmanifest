@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - YWSL", "short_name": "Snow Log", "start_url": "/snow-log-apps/ywsl/", "scope": "/snow-log-apps/ywsl/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#397e00", "icons": [{"src": "/snow-log-apps/t/ywsl/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

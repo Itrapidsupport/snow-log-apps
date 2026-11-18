@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Spartan Snow", "short_name": "Snow Log", "start_url": "/snow-log-apps/spartan-snow/", "scope": "/snow-log-apps/spartan-snow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#e80707", "icons": [{"src": "/snow-log-apps/t/spartan-snow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

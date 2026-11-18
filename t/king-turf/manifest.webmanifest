@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - King Turf", "short_name": "Snow Log", "start_url": "/snow-log-apps/king-turf/", "scope": "/snow-log-apps/king-turf/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#83684c", "icons": [{"src": "/snow-log-apps/t/king-turf/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

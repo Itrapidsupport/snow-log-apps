@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Terrascapes", "short_name": "Snow Log", "start_url": "/snow-log-apps/terrascapes/", "scope": "/snow-log-apps/terrascapes/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#657d00", "icons": [{"src": "/snow-log-apps/t/terrascapes/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

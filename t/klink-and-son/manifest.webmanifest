@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Klink & Son", "short_name": "Snow Log", "start_url": "/snow-log-apps/klink-and-son/", "scope": "/snow-log-apps/klink-and-son/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#bb5409", "icons": [{"src": "/snow-log-apps/t/klink-and-son/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

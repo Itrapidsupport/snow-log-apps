@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Central Snow", "short_name": "Snow Log", "start_url": "/snow-log-apps/central-snow/", "scope": "/snow-log-apps/central-snow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#d91625", "icons": [{"src": "/snow-log-apps/t/central-snow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

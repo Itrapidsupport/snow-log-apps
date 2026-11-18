@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - AK Snow", "short_name": "Snow Log", "start_url": "/snow-log-apps/ak-snow/", "scope": "/snow-log-apps/ak-snow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#d8077e", "icons": [{"src": "/snow-log-apps/t/ak-snow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

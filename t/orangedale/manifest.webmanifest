@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Orangedale", "short_name": "Snow Log", "start_url": "/snow-log-apps/orangedale/", "scope": "/snow-log-apps/orangedale/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#c84706", "icons": [{"src": "/snow-log-apps/t/orangedale/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

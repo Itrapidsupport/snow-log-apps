@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - VanDuzen", "short_name": "Snow Log", "start_url": "/snow-log-apps/vanduzen/", "scope": "/snow-log-apps/vanduzen/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#1f3a89", "icons": [{"src": "/snow-log-apps/t/vanduzen/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

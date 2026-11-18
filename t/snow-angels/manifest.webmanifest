@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Snow Angels", "short_name": "Snow Log", "start_url": "/snow-log-apps/snow-angels/", "scope": "/snow-log-apps/snow-angels/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#3878b8", "icons": [{"src": "/snow-log-apps/t/snow-angels/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

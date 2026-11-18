@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Snow Shoveller", "short_name": "Snow Log", "start_url": "/snow-log-apps/snow-shoveller/", "scope": "/snow-log-apps/snow-shoveller/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#1670c9", "icons": [{"src": "/snow-log-apps/t/snow-shoveller/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Yardwerks TBay", "short_name": "Snow Log", "start_url": "/snow-log-apps/yardwerks-tbay/", "scope": "/snow-log-apps/yardwerks-tbay/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#61781a", "icons": [{"src": "/snow-log-apps/t/yardwerks-tbay/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

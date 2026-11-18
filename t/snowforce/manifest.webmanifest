@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - SnowForce", "short_name": "Snow Log", "start_url": "/snow-log-apps/snowforce/", "scope": "/snow-log-apps/snowforce/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#067da4", "icons": [{"src": "/snow-log-apps/t/snowforce/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Bayland Snow", "short_name": "Snow Log", "start_url": "/snow-log-apps/bayland-snow/", "scope": "/snow-log-apps/bayland-snow/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#0255a3", "icons": [{"src": "/snow-log-apps/t/bayland-snow/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

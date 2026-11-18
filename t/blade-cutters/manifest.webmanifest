@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Blade Cutters", "short_name": "Snow Log", "start_url": "/snow-log-apps/blade-cutters/", "scope": "/snow-log-apps/blade-cutters/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#26797d", "icons": [{"src": "/snow-log-apps/t/blade-cutters/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

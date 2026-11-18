@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Snow Guardians", "short_name": "Snow Log", "start_url": "/snow-log-apps/snow-guardians/", "scope": "/snow-log-apps/snow-guardians/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#1e768f", "icons": [{"src": "/snow-log-apps/t/snow-guardians/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

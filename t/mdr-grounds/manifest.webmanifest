@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - MDR Grounds", "short_name": "Snow Log", "start_url": "/snow-log-apps/mdr-grounds/", "scope": "/snow-log-apps/mdr-grounds/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#617523", "icons": [{"src": "/snow-log-apps/t/mdr-grounds/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

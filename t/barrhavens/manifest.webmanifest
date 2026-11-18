@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Barrhavens", "short_name": "Snow Log", "start_url": "/snow-log-apps/barrhavens/", "scope": "/snow-log-apps/barrhavens/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#158558", "icons": [{"src": "/snow-log-apps/t/barrhavens/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

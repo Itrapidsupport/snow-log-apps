@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Snowzilla", "short_name": "Snow Log", "start_url": "/snow-log-apps/snowzilla/", "scope": "/snow-log-apps/snowzilla/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#067aa1", "icons": [{"src": "/snow-log-apps/t/snowzilla/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}

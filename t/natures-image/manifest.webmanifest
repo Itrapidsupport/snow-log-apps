@@ -1,0 +1,1 @@
+{"name": "Snow Log Inspection - Nature's Image", "short_name": "Snow Log", "start_url": "/snow-log-apps/natures-image/", "scope": "/snow-log-apps/natures-image/", "display": "standalone", "background_color": "#f4f6f9", "theme_color": "#8e7025", "icons": [{"src": "/snow-log-apps/t/natures-image/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
